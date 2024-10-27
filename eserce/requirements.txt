@@ -18,5 +18,5 @@ pyworld==0.3.4
 #torch==2.0.1+cu118
 torchcrepe==0.0.20
 #tqdm==4.65.0
-yt_dlp==2024.7.8
+yt_dlp==2023.7.6 #newer version buggy
 sox==1.4.1
